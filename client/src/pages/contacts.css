@@ -1,0 +1,62 @@
+.mainContainer{
+    display: flex;
+    margin-top: 1%;
+    height:650px;
+    background-color: #000000;
+    opacity: 0.8;
+    border: 1px solid cyan;
+}
+h2{
+    color: white;
+    margin-left: 10%;
+}
+.locicon{
+width:200px;
+height:200px;
+margin-left: 25%;
+margin-top: 10%;
+}
+.phone{
+    width:200px;
+    height:200px;
+    margin-left: 25%;
+    margin-top: 10%;
+
+    
+}
+.email{
+    width:270px;
+    height:200px;
+    margin-left: 15%;
+    margin-top: 10%;
+
+}
+.locContainer{
+width:25%;
+height: 90%;
+margin-top: 2%;
+margin-left: 7%;
+border: 0.5px solid white;
+background-color: #000000;
+opacity:2;
+}
+.phoneContainer{
+    width:25%;
+    height: 90%;
+    margin-top: 2%;
+    margin-left: 5%;
+    border: 0.5px solid white;
+    background-color: #000000;
+    opacity:2;
+    
+}
+.emailContainer{
+    width:25%;
+    margin-top: 2%;
+    height: 90%;
+    margin-left: 5%;
+    border: 0.5px solid white;
+    background-color: #000000;
+    opacity:2;
+    
+}

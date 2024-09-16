@@ -1,0 +1,54 @@
+.head{
+    margin-left: 50%;    
+    justify-content: right;
+    height: 10%;
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    /* z-index: 12; */
+  } 
+.topline{
+    width:100%;
+    color:white;
+}
+
+.link1{
+    text-decoration: none;
+    margin-left: 40%;
+    color: #fff;
+    transition: color 0.3s ease;
+
+}
+.link2{
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s ease;
+}
+.link4{
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s ease;
+}
+.link5{
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s ease;
+}
+.link1:hover {
+    color: cyan;
+}
+.link2:hover {
+    color: cyan;
+}
+.link3:hover {
+    color: cyan;
+}
+.link4:hover {
+    color: cyan;
+  }
+.link5:hover {
+    color: cyan;
+  }
+.navbar{
+    justify-content: space-around;
+}

@@ -1,0 +1,84 @@
+body{
+    font-weight: 100;
+}
+.aboutContainer{
+    width:90%;
+    height:95%;
+    margin-top: 1.5%;
+    margin-left: 5%;
+    background-color: #000000;
+    opacity:0.8;
+    border: 0.5px solid cyan;
+}
+.photo{
+    width: 160px;
+    height:160px;
+    border-radius: 100%;
+    border: 15px solid #A1CEC9;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+.Aletter{
+    width: 240px;
+    height: 200px;
+    margin-left: 0px;
+    margin-top: 0;
+
+}
+.title{
+    margin-left: 13%;
+    color: #ffffff;
+}
+h3{
+    color:white;
+}
+.QAsection{
+    display: flex;
+    margin-left: 7%;
+}
+.name{
+margin-left: 1.5%;
+margin-top: -2%;
+}
+.myself{
+margin-left: 2%;
+margin-top: -2%; 
+}
+.role{
+margin-top: 2%;
+margin-left: -17%;
+}
+.value{
+margin-top: 2%;
+margin-left: 2%;
+}
+.edu{
+margin-top: 7%;
+margin-left: -26.5%;
+}
+.degree{
+margin-top: 7%;
+margin-left: 30px;
+}
+.tg{
+margin-top: 150px;
+margin-left: -470px;
+}
+.org{
+margin-top: 150px;
+margin-left: 30px;
+}
+/* CurvedSpace.css */
+.curved-space {
+    width: 15px; /* Adjust the width of the curved space */
+    height: 80px;         /* Adjust the height of the curved space */
+    background-color: #A1CEC9; /* Background color of the space */
+    border-top-left-radius: 100px; /* Adjust radius to create the curvature */
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    margin-left: -40px;
+    margin-top: 10%;
+    transform: rotate(-55deg); /* Rotate the div to create the space effect */
+  }
+  

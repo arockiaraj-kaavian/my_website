@@ -1,0 +1,142 @@
+.skillcontainer{
+    margin-top: 1%;
+    height:650px;
+    background-color: #000000;
+    opacity: 0.8;
+    border: 1px solid cyan;
+}
+.cont1{
+    display: flex;
+}
+.cont2{
+    display: flex;
+    margin-top: 5%;
+}
+.skilldiv{
+    width:280px;
+    height:200px;
+    margin-left: 5%;
+    margin-top: 2%;
+    background-color: #000000;
+    opacity: 0.7;
+    border: 1px solid white;
+}
+.Node{
+    margin-left: 23%;
+}
+.react{
+    width:150px;
+    height:150px;
+    margin-left: 23%;
+}
+.js{
+    width: 150px;
+    height: 150px;
+    margin-top: 1%;
+    margin-left: 23%;
+}
+.sel{
+    width: 150px;
+    height: 150px;
+    margin-top: 1%;
+    margin-left: 23%;
+}
+.css{
+    width: 150px;
+    height: 150px;
+    margin-top: 1%;
+    margin-left: 23%;
+}
+.html{
+    margin-left: 26%;
+    margin-top: 5%;
+}
+.figma{
+    width:150px;
+    height: 150px;
+    margin-top: 1%;
+    margin-left: 23%;
+}
+.statusbar1{
+    width:120px;
+    height: 15px;
+    margin-left: 2px;
+    margin-top: 10px;
+    background-color: green;
+    border: 1px solid white;
+}
+
+.statusbar2{
+    width:220px;
+    height: 15px;
+    margin-left: 2px;
+    margin-top: 10px;
+    background-color: green;
+    border: 1px solid white;
+}
+.statusbar3{
+    width:150px;
+    height: 15px;
+    margin-left: 2px;
+    margin-top: 10px;
+    background-color: green;
+    border: 1px solid white;
+}
+.statusbar4{
+    width:220px;
+    height: 15px;
+    margin-left: 2px;
+    margin-top: 30px;
+    background-color: green;
+    border: 1px solid white;
+}
+.statusbar5{
+    width:150px;
+    height: 15px;
+    margin-left: 2px;
+    margin-top: 10px;
+    background-color: green;
+    border: 1px solid white;
+}
+.statusbar6{
+    width:240px;
+    height: 15px;
+    margin-left: 2px;
+    margin-top: 10px;
+    background-color: green;
+    border: 1px solid white;
+}
+.statusbar7{
+    width:130px;
+    height: 15px;
+    margin-left: 2px;
+    margin-top: 10px;
+    background-color: green;
+    border: 1px solid white;
+}
+.language{
+    margin-left: 34%;
+}
+.nodejs{
+    margin-left: 34%;
+}
+.script{
+    margin-left: 34%;
+
+}
+.Html{
+    margin-left: 34%;
+
+}
+.cascade{
+    margin-left: 34%;
+
+}
+.selenium{
+    margin-left: 34%;
+
+}
+.fig{
+    margin-left: 34%;
+
+}
